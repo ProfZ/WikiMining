@@ -77,11 +77,9 @@ Za serverski deo projekta koriste se sledeće tehnologije:
  - [ ] kreiranje klijentskog dela
  - [ ] vizuelizacija dobijenih rezultata
 
-## Učesnici u projektu
+## Članovi tima
 
 - Aleksandra Aleksić		  E2 1/2015
 - Aleksandar Pejaković 		E2 2/2015
 - Aleksandar Birčaković		E2 3/2015
 - Miroljub Enjaković	  	E2 75/2015
-
-
